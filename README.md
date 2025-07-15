@@ -1,4 +1,6 @@
-<img src="https://files.catbox.moe/rayzyf.webp" alt= " alt text">
+<p align="center">
+  <img width="460" height="300" src="https://files.catbox.moe/rayzyf.webp">
+</p>
 <!--
 **isaac-why/isaac-why** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
