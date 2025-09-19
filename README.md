@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://files.catbox.moe/rayzyf.webp">
+  <img width="460" height="300" src="https://files.catbox.moe/2im5a8.png.gif.webp">
 </p>
 <!--
 **isaac-why/isaac-why** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
